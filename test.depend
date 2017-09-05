@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1504523662 source:s:\java workspace\test\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
